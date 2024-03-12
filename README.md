@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F7F5&background=FFBCDC00&random=false&width=435&lines=Hello+Im+Spika+%2C+I+love+programming+HTML+and+Css;Im+a+young+developper+from+canada)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Spika</h1>
-![365130745_271662992159005_7523495329655170768_n (1)](https://github.com/SpikaDev/SpikaDev/assets/78832943/a56dbbb4-da17-41b5-a4d5-0e6a875b7372)
 
 - 🔭 I’m currently working on **website**
 
