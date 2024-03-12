@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- ⚡ Fun fact: Im a calm person but i love to laugh.
+- 🌱 I’m currently learning HTML
+- 🔭 I’m currently working on a Website
 <!--
 **SpikaDev/SpikaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
