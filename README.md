@@ -10,7 +10,7 @@
 
 - 💻 I like to Dev Lua.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on discord: Spikadev</h3>
 <p align="left">
 </p>
 
