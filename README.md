@@ -8,6 +8,8 @@
 
 - ⚡ Fun fact **I am calm person but i love to laugh.**
 
+- 💻 I like to Dev Lua.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
